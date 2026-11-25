@@ -132,14 +132,16 @@
     if (userInitiated && demo) start();
   }
   try {
-    const response = await fetch('engines.json?v=mac-20261119');
+    const response = await fetch('engines.json?v=desktop-20261126');
     if (!response.ok) throw Error('Catalog unavailable');
     const engines = await response.json();
     const optional = await Promise.allSettled([
       fetch('../mpc-sample/demos.json?v=loudness-match1').then(r => { if (!r.ok) throw Error(); return r.json(); }).then(data => Object.fromEntries(Object.entries(data).map(([name, demo]) => [name, { ...demo, src: new URL(demo.src, new URL('../mpc-sample/', location.href)).href }]))),
-      fetch('motion.json?v=mac-preview-20261119').then(r => { if (!r.ok) throw Error(); return r.json(); })
+      fetch('motion.json?v=desktop-20261126').then(r => { if (!r.ok) throw Error(); return r.json(); })
     ]);
     if (optional[0].status === 'fulfilled') demos = optional[0].value;
+    const localDemos = await fetch('demos.json?v=desktop-20261126').then(r => r.json());
+    demos = { ...localDemos, ...demos };
     if (optional[1].status === 'fulfilled') motions = optional[1].value;
     engineSelect.addEventListener('change', () => { const index = Number(engineSelect.value); show(engines[index], index, true); });
     engines.forEach((engine, index) => {

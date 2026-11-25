@@ -371,5 +371,25 @@
     "render": "Offline production SoundRack with original factory program; no external substitute synth",
     "normalisation": "Common per-file gain: target -18 dBFS RMS, capped at -3 dBFS sample peak; edge fades only",
     "version": "0.2.0"
+  },
+  "Amino": {
+    "src": "assets/audio/amino.wav",
+    "preset": "IN Init",
+    "bpm": 120,
+    "duration": 9.003537414965987,
+    "render": "Original engine and factory sound / desktop offline preview",
+    "sha256": "41d50fac15133740c74cc9698d2f8e279e8de354f1ffc807b693a5f992b89ba2",
+    "gain": 1.6358020957046657,
+    "peak": 0.4162264686114983
+  },
+  "Fizzik": {
+    "src": "assets/audio/fizzik.wav",
+    "preset": "AlienChurch",
+    "bpm": 120,
+    "duration": 9.003537414965987,
+    "render": "Original engine and factory sound / desktop offline preview",
+    "sha256": "e8ff3a4251150e0d28a6a241362aca1a170cf6620062c0ecea5166f0fb0f10d7",
+    "gain": 1.5375654180613358,
+    "peak": 0.5960130596989468
   }
 }

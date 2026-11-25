@@ -138,5 +138,19 @@
     "preset": "BS Night Drive",
     "renderer": "Original Rhythmer shared 3D renderer / Mac aspect ratio; demo audio envelope",
     "src": "assets/motion/tenebrae.json"
+  },
+  "Amino": {
+    "src": "assets/motion/amino.json",
+    "fps": 20,
+    "frames": 180,
+    "preset": "IN Init",
+    "renderer": "Shared original 3D geometry / desktop audio envelope"
+  },
+  "Fizzik": {
+    "src": "assets/motion/fizzik.json",
+    "fps": 20,
+    "frames": 180,
+    "preset": "AlienChurch",
+    "renderer": "Shared original 3D geometry / desktop audio envelope"
   }
 }
