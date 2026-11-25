@@ -8,18 +8,18 @@
     {
       "kind": "SD",
       "file": "RHYTHMER-OS-0.3.0-SD.zip",
-      "bytes": 172249198,
-      "sha256": "a7640e495b70f190c51448438344db86c8ac29e9266aaade4b3db148487ed960",
-      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip",
-      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256"
+      "bytes": 173149784,
+      "sha256": "deb3260a18409653ab6b9c2f5c94012ca5dfb1f96bea11240161cd046b729e16",
+      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip?rev=ui-hotfix-20261126",
+      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256?rev=ui-hotfix-20261126"
     },
     {
       "kind": "SOURCE",
       "file": "RHYTHMER-OS-0.3.0-SOURCE.zip",
-      "bytes": 209876477,
-      "sha256": "78fd39c7a0f58046331a7c721507e2996c7d0ac9193f5be26043958ad88cdaf4",
-      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SOURCE.zip",
-      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SOURCE.zip.sha256"
+      "bytes": 210759919,
+      "sha256": "a6384f5ff0c7b7d53f1fff03a80d2656768e64c33e00cab9c0d6f2d1bbcdaab9",
+      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SOURCE.zip?rev=ui-hotfix-20261126",
+      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SOURCE.zip.sha256?rev=ui-hotfix-20261126"
     },
     {
       "kind": "ENGINE-SOURCE",
@@ -49,5 +49,6 @@
   ],
   "physical_device_validated": false,
   "update_method": "FULL SD package; matching application, plug-ins and catalogue are required",
-  "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256"
+  "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256?rev=ui-hotfix-20261126",
+  "revision": "ui-hotfix-20261126"
 }
