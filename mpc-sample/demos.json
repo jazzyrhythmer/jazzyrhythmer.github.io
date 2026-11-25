@@ -425,5 +425,33 @@
     "render": "Offline production SoundRack with original factory program; no external substitute synth",
     "normalisation": "Common per-file gain: target -18 dBFS RMS, capped at -3 dBFS sample peak; edge fades only",
     "version": "0.2.0"
+  },
+  "Amino": {
+    "src": "assets/audio/amino.wav",
+    "preset": "PD Wave Drift",
+    "bpm": 120,
+    "duration": 10,
+    "stepsPerSecond": 8,
+    "render": "RHYTHMER OS 0.3.0 native engine offline render; original factory preset",
+    "sha256": "c3f4805bf50d2a4380868d1b868fc2767ab0891e5fda1b1656ad6631a3b048ec",
+    "loudness_target_lufs": -18,
+    "true_peak_ceiling_dbtp": -3,
+    "post_processing": "Loudness matched; 40 ms fade in / 350 ms fade out",
+    "measured_lufs": -18.43,
+    "measured_true_peak_dbtp": -6.65
+  },
+  "Fizzik": {
+    "src": "assets/audio/fizzik.wav",
+    "preset": "CaveStrings",
+    "bpm": 120,
+    "duration": 10,
+    "stepsPerSecond": 8,
+    "render": "RHYTHMER OS 0.3.0 native engine offline render; original factory preset",
+    "sha256": "90d4516c9e62d9e3b55f624feacd54324a6fd1be3d841bd3802dc26d4f5542b8",
+    "loudness_target_lufs": -18,
+    "true_peak_ceiling_dbtp": -3,
+    "post_processing": "Loudness matched; 40 ms fade in / 350 ms fade out",
+    "measured_lufs": -17.9,
+    "measured_true_peak_dbtp": -9.2
   }
 }

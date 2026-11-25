@@ -7,11 +7,11 @@
     "columns": 10,
     "width": 320,
     "height": 240,
-    "preset": "DRUM-X",
-    "sha256": "e55e13c9d1c381431d2c1fafbfbb6df2ef668db576f968cf785a56e41571af27",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "preset": "K-WASUB / 909",
+    "sha256": "43525e5a208be6af8766d50da824a523c350ade2f1edfea524dce2e2944eadce",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Acid Engine": {
     "src": "assets/motion/acid-engine.png",
@@ -22,10 +22,10 @@
     "width": 320,
     "height": 240,
     "preset": "SQUELCH",
-    "sha256": "b875ffd597347191e81ce50223da9c0159460da7dfe717a1de62230cd5b6cbad",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "cf6b2494a30abc08a259b2be97c43e49a6eff0734c2e665a3c858a01b02d0dd0",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Sophie": {
     "src": "assets/motion/sophie.png",
@@ -36,10 +36,10 @@
     "width": 320,
     "height": 240,
     "preset": "Kick",
-    "sha256": "7c5033d96365256dadabc45358239ab758de50338f583538dec25bebeb906d6b",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "57cd559cefbe6297e97dc5168fbf62b6df8c73beb63cbbddf4b7a638329c5903",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Elixir": {
     "src": "assets/motion/elixir.png",
@@ -50,10 +50,10 @@
     "width": 320,
     "height": 240,
     "preset": "Initkit / Kick",
-    "sha256": "0f1ae5e2414e999a74256ef12f31d57976dec6c715f959dc68c7e6429a0ac554",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "57f161267c2dad6107682df5cc82867fe52e7b8530869d0605892253ac74a0bc",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Aphex": {
     "src": "assets/motion/aphex.png",
@@ -63,11 +63,11 @@
     "columns": 10,
     "width": 320,
     "height": 240,
-    "preset": "Init",
-    "sha256": "bb152c37707aa644787b89a00f2481fb6898edc53ece4ec30d6f070b1ab5f3da",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "preset": "Sticky Bass",
+    "sha256": "c5c159d7c41b379c4d25ae0a8ed6bd7771ef72e4db39653f399e71d475d0f15d",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "FM-106": {
     "src": "assets/motion/fm-106.png",
@@ -78,10 +78,10 @@
     "width": 320,
     "height": 240,
     "preset": "A11 Brass",
-    "sha256": "cb9ca7021f294054d4199cff404203dc8fbab242323d9c08143825b84255b296",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "a640a40b12e16b5e7a73ae1a4dc8d3eff276898ec4c092f1ed55ec08091c0bf6",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "FMini-1": {
     "src": "assets/motion/fmini-1.png",
@@ -92,10 +92,10 @@
     "width": 320,
     "height": 240,
     "preset": "MINI LEAD",
-    "sha256": "0777ab4687747e87799efa26161405bfde0eaa659245458c89bd3a9e088afe80",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "b5a80f833a7f6e5b6593cb364e2a70a3e64247f98b6adf6fc1333d1813ee73f6",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "CS-1": {
     "src": "assets/motion/cs-1.png",
@@ -106,10 +106,10 @@
     "width": 320,
     "height": 240,
     "preset": "BLADE BRASS",
-    "sha256": "ad69cd4f5d25fbad8f5df546a6c371e47bdb274731693501141389b4eaadfe39",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "6296a8e1296529ae0239099e81a39f07ff2bd6da68b2d2d84cd3c8c0792bb1de",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "OberVave": {
     "src": "assets/motion/obervave.png",
@@ -120,10 +120,10 @@
     "width": 320,
     "height": 240,
     "preset": "DARK ARP",
-    "sha256": "df72e3d45b4ef78ae2a8c80492145cc2cbc96bffa928252b0795721a15404acd",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "eae6f068e81f649a48643a8a1ed94c27b7f5d1dd0b083e4f8ee3d3e913012ca5",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "K-WASUB": {
     "src": "assets/motion/k-wasub.png",
@@ -134,10 +134,10 @@
     "width": 320,
     "height": 240,
     "preset": "DEEP PRESSURE",
-    "sha256": "c5b030397aaacfa0bbbd9962a0135b413ef8860dc58e8a5524dbe269a47413b0",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "acfe4491eb630630c2099fa7afafeb8bc84662be36f4ef65564172d93f75c51f",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Hera": {
     "src": "assets/motion/hera.png",
@@ -148,10 +148,10 @@
     "width": 320,
     "height": 240,
     "preset": "Strings 1",
-    "sha256": "6caf05b12830c1d506ba5839dfeecf2cc1f833cbf6908f8dea788747c706d19a",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "ea51a40d3cccd4a548039fdabbb0a6a8c4151a571a934e0bde4cd73798c0ed25",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Braids": {
     "src": "assets/motion/braids.png",
@@ -162,10 +162,10 @@
     "width": 320,
     "height": 240,
     "preset": "Init",
-    "sha256": "992c5ddd80b3b11a009fbfc49dcb5db64286ca74d332b07e0be875de94839ed6",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "20e0227bf30efd93155d3d7d9fee5ebc791a72242b6a0c88c3164c2b837e5ce4",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Plaits": {
     "src": "assets/motion/plaits.png",
@@ -176,10 +176,10 @@
     "width": 320,
     "height": 240,
     "preset": "VA VCF",
-    "sha256": "a17a8205d76e3f14c46af12dff0609214fbe7fce30f8fb6f38de3430cdebf3ce",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "b227a3cdb8e596ae851a814bef1ab4f9402c50877609f1f8a284a9936b8c5842",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Hortator": {
     "src": "assets/motion/hortator.png",
@@ -190,10 +190,10 @@
     "width": 320,
     "height": 240,
     "preset": "SUBTHUMP",
-    "sha256": "b73e0400267e7ce42aa265c4a85888ab006f91eba72c39e9f07f11632b684f1c",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "c2187c02a1370112f2440a657019e71329cfdc3b7a3b85121534637a609933e4",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "MONO2K": {
     "src": "assets/motion/mono2k.png",
@@ -204,10 +204,10 @@
     "width": 320,
     "height": 240,
     "preset": "GND-SIN",
-    "sha256": "b1edb23cf4a437288cbd0519802b13b6f0e733857977d3bacb4eeca5d96d0d54",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "37316f3424074c43d92ea5af1047ca5d7a07b14a2c1573c9110445cddbce83bf",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Prophet": {
     "src": "assets/motion/prophet.png",
@@ -218,10 +218,10 @@
     "width": 320,
     "height": 240,
     "preset": "INIT PROPHET",
-    "sha256": "b7a7084b0cd1906ba4dbd1d9222fb80e69e0a5be482522db66b94d84cf872466",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "56e3446d9e728ce9c039615ca619f290e54121727b3681660d89aa893710cbbc",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "S1Vave": {
     "src": "assets/motion/s1vave.png",
@@ -231,11 +231,11 @@
     "columns": 10,
     "width": 320,
     "height": 240,
-    "preset": "PTN 1-01",
-    "sha256": "120438a2c4f294fd59c6e6cbc8e0e541da56c9ef713acd94e465f06a23947c1d",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "preset": "PTN 1-02",
+    "sha256": "17d19a78564973c501bb7c5def6a73eb2f9f24af0787d0fc4e91467250f7ad55",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Dexed": {
     "src": "assets/motion/dexed.png",
@@ -246,10 +246,10 @@
     "width": 320,
     "height": 240,
     "preset": "Dexed_01 / Say Again.",
-    "sha256": "7ee04e6280b59a219e069a8100427c8090b21a0ed39dea3815c0367e11c0bd54",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "fb087508604089db422d7b19494e414332b9fb39ed938bc179094350f0fb51f2",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Guru-600": {
     "src": "assets/motion/guru-600.png",
@@ -260,10 +260,10 @@
     "width": 320,
     "height": 240,
     "preset": "1 ORGAN I",
-    "sha256": "c9adf359ebea13b832d5a3616a7ab63ef2a7856437a668a1bc2b48488166e115",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "b7acd3cb37d7bdb6d833fc14a0334d00ba43cb0a2a1b411c264e96c21600a880",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Frodhes": {
     "src": "assets/motion/frodhes.png",
@@ -274,10 +274,10 @@
     "width": 320,
     "height": 240,
     "preset": "F01 STAGE 77",
-    "sha256": "b79423d32be7674598b1e35534643001347ed8f4e3895a7bf14bc4e75270bbe5",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "sha256": "672d991794c99def8f9c29808e900a8572cb9e8128f55609db588cf9e6327c1c",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Tenebrae": {
     "src": "assets/motion/tenebrae.png",
@@ -287,11 +287,11 @@
     "columns": 10,
     "width": 320,
     "height": 240,
-    "preset": "Init",
-    "sha256": "221e4bfd8ab6c0e4b4f4a99c5fae3cde06b3517a63e9d57b922474578bba192d",
-    "ui_version": "0.2.0",
-    "capture": "Production runtime renderer; simulated note and sustain input",
-    "runtime_sha256": "f9bd064d8469b50433b7be88e45eeeaf9fe1ab6884d41694b4eb7763ca1c4751"
+    "preset": "BS Night Drive",
+    "sha256": "8603b55a561e7d061f36d1614f410ed33fd8ea794f9ff9aa3f45208618764fdd",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   },
   "Break Engine": {
     "src": "assets/motion/break-engine-still.png",
@@ -305,5 +305,33 @@
     "sha256": "b904a7f1dd11b9db8533672501ce6511179eb43a21b3887c7e8de5473af4f615",
     "ui_version": "0.2.0",
     "capture": "Production native BRK PERF page; static reference"
+  },
+  "Amino": {
+    "src": "assets/motion/amino.png",
+    "still": "assets/motion/amino-still.png",
+    "frames": 30,
+    "fps": 10,
+    "columns": 10,
+    "width": 320,
+    "height": 240,
+    "preset": "PD Wave Drift",
+    "sha256": "fbfdf96ed851935724662dedf8237a5a251948d3c796957656c4e3ae08fd786c",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
+  },
+  "Fizzik": {
+    "src": "assets/motion/fizzik.png",
+    "still": "assets/motion/fizzik-still.png",
+    "frames": 30,
+    "fps": 10,
+    "columns": 10,
+    "width": 320,
+    "height": 240,
+    "preset": "CaveStrings",
+    "sha256": "1722391bc7aa026c0162c13b949d438665f61b0594090d826b37c4b50d281598",
+    "ui_version": "0.3.0",
+    "capture": "Native UI renderer; simulated note and sustain input",
+    "runtime_sha256": "6aa13d73ee143196f6e14b093d34a2fa7406fb47a2165267ff86baef4089d42b"
   }
 }

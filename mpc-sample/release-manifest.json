@@ -20,12 +20,34 @@
       "sha256": "78fd39c7a0f58046331a7c721507e2996c7d0ac9193f5be26043958ad88cdaf4",
       "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SOURCE.zip",
       "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SOURCE.zip.sha256"
+    },
+    {
+      "kind": "ENGINE-SOURCE",
+      "file": "RHYTHMER-ENGINE-PORTS-0.3.0-SOURCE.zip",
+      "bytes": 83889569,
+      "sha256": "08443deae228e7702be78403912231eb17ee5b857948893106fdb90d2cd26636",
+      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-ENGINE-PORTS-0.3.0-SOURCE.zip",
+      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-ENGINE-PORTS-0.3.0-SOURCE.zip.sha256"
+    },
+    {
+      "kind": "SUPPORT-SOURCE",
+      "file": "RHYTHMER-OS-0.3.0-SUPPORT-SOURCE.zip",
+      "bytes": 123594651,
+      "sha256": "96db18bead75afa4c39855b312171adc6e715c5ede1bb5e9b9c1a3dff1e37cc0",
+      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SUPPORT-SOURCE.zip",
+      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SUPPORT-SOURCE.zip.sha256"
     }
   ],
   "visible_engine_entries": 24,
   "rhythmer_kits": 69,
   "factory_sound_selections": 3812,
   "sound_selection_scope": "31 source views, including kit voices and shared Acid selections",
+  "supported_firmware": [
+    "1.3.0.12",
+    "1.4.0.7",
+    "1.4.0.8"
+  ],
   "physical_device_validated": false,
+  "update_method": "FULL SD package; matching application, plug-ins and catalogue are required",
   "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256"
 }
