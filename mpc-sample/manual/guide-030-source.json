@@ -2,8 +2,8 @@
   "index.html": {
     "version": "0.3.0",
     "source": "MANUAL_020_EN.md",
-    "source_sha256": "4c1c0f73e4e3368960c16e984f7070ac835bac4374b2cb6286098fec4721fec3",
-    "sections": 38,
+    "source_sha256": "71ed670306f7b5014c8a9fc3f22e2a15c5036fdd286bc25919a69293f2f27188",
+    "sections": 35,
     "publication_performed_by_generator": false,
     "upstream": "Melodee v0.8.2"
   },
