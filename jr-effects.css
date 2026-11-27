@@ -4,6 +4,7 @@
 .jr-effect .product-hero > * { min-width: 0; }
 .jr-effect .product-hero h1 { font-size: clamp(40px, 5vw, 66px); }
 .jr-effect .product-hero .product-mark { width: min(230px, 100%); height: auto; }
+.jr-effect .effect-platforms { display: block; margin-inline-start: calc(1ch + 10px); }
 .effect-hero-screen { margin: 0; width: 100%; }
 .effect-hero-screen a { display: block; }
 .effect-screen img { display: block; max-width: 100%; height: auto; border: 1px solid var(--line); }
