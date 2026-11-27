@@ -4,10 +4,19 @@
 .jr-effect .product-hero > * { min-width: 0; }
 .jr-effect .product-hero h1 { font-size: clamp(40px, 5vw, 66px); }
 .jr-effect .product-hero .product-mark { width: min(230px, 100%); height: auto; }
-.jr-effect .product-hero .hero-visual { margin: 0; }
-.jr-effect .hero-visual img { width: auto; max-width: 100%; max-height: min(62vw, 570px); margin-inline: auto; }
-.jr-effect .product-hero .hero-visual a { display: block; }
-.jr-effect .hero-visual figcaption { text-align: center; margin-bottom: 0; }
+.effect-hero-screens {
+  display: grid;
+  grid-template-columns: minmax(0, 7fr) minmax(0, 10fr);
+  align-items: center;
+  gap: clamp(10px, 2vw, 22px);
+}
+.effect-hero-screens figure { margin: 0; min-width: 0; }
+.effect-hero-screens figcaption {
+  margin-top: 12px;
+  color: #b3b1bb;
+  font: 11px/1.5 ui-monospace, monospace;
+  letter-spacing: .12em;
+}
 .effect-screen img { display: block; max-width: 100%; height: auto; border: 1px solid var(--line); }
 .jr-effect .section { scroll-margin-top: 20px; }
 .effect-listen, .effect-mode-grid, .effect-controls { display: grid; gap: 16px; margin-top: 26px; }
@@ -30,7 +39,7 @@
 .emul-product .emul-gallery figure { margin: 0; align-self: start; }
 .emul-product .emul-gallery img { width: 100%; }
 @media (max-width: 850px) {
-  .jr-effect .hero-visual img { max-height: min(110vw, 590px); }
+  .effect-hero-screens { max-width: 630px; width: 100%; margin-inline: auto; }
 }
 @media (max-width: 680px) {
   .effect-listen, .effect-mode-grid, .effect-controls, .emul-product .emul-gallery { grid-template-columns: 1fr; }
@@ -38,4 +47,5 @@
 
 @media (max-width: 390px) {
   .jr-effect .product-hero h1 { font-size: clamp(33px, 10.8vw, 40px); }
+  .effect-hero-screens figcaption { font-size: 10px; margin-top: 8px; }
 }
