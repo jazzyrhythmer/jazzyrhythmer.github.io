@@ -1,7 +1,7 @@
 /* JR sampler evidence components. Encoded files retain their fixed matching gains. */
 (() => {
   'use strict';
-  const names = { dry: 'Dry', sp1200: 'SP1200', s950: 'S950', asr10: 'ASR10', mpc60: 'MPC60', mpc3000: 'MPC3000', squeeze: 'Compression', texture: 'Texture', wow: 'Motion', full: 'PATINA' };
+  const names = { dry: 'Dry', sp1200: 'SP-1200', sp12: 'SP-12', '303vs': '303VS', s950: 'S950', asr10: 'ASR-10', mpc60: 'MPC60', mpc3000: 'MPC3000', squeeze: 'Compression', texture: 'Texture', wow: 'Motion', full: 'PATINA' };
   const roots = document.querySelectorAll('.emul-evidence');
   roots.forEach(root => {
     root.querySelectorAll('[data-emul-graph]').forEach(graph => {
@@ -62,7 +62,7 @@
         const resume = pending ? pending.resume : (!audio.paused && !audio.ended);
         const base = player.dataset.audioBase || '../emul-evidence/';
         const directory = new URL(base.endsWith('/') ? base : `${base}/`, document.baseURI);
-        const url = new URL(`${player.dataset.audioPrefix || 'phrase'}-${key}.wav`, directory).href;
+        const url = new URL(`${player.dataset.audioPrefix || 'phrase'}-${key}.${player.dataset.audioFormat || 'wav'}`, directory).href;
         selected = key; failed = false; generation += 1;
         pending = { position, resume, generation, url };
         markButtons(); setStatus(`Loading · ${label()}…`);
