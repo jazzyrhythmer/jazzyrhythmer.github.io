@@ -8,10 +8,10 @@
     {
       "kind": "SD",
       "file": "RHYTHMER-OS-0.3.0-SD.zip",
-      "bytes": 173540348,
-      "sha256": "48ebde123cef7f36176996751f91d4f0832afff73b692f80fa0478d252465b16",
-      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip?rev=melodee090-48ebde123cef",
-      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256?rev=melodee090-48ebde123cef"
+      "bytes": 173540238,
+      "sha256": "746bce76ee280feba7cb9d62c6f965362db35eef742c9d6d35e2b9a8292e396f",
+      "url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip?rev=melodee091-746bce76ee28",
+      "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256?rev=melodee091-746bce76ee28"
     },
     {
       "kind": "SOURCE",
@@ -49,6 +49,6 @@
   ],
   "physical_device_validated": false,
   "update_method": "FULL SD package; matching application, plug-ins and catalogue are required",
-  "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256?rev=melodee090-48ebde123cef",
-  "revision": "melodee090-48ebde123cef"
+  "checksum_url": "https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/download/v0.3.0/RHYTHMER-OS-0.3.0-SD.zip.sha256?rev=melodee091-746bce76ee28",
+  "revision": "melodee091-746bce76ee28"
 }
